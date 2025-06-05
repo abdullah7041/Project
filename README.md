@@ -21,8 +21,8 @@ This Power BI dashboard was built to help the Alghalia sales team track top-perf
 - Reduced report generation time by over 60%
 
 ## 🖼️ Dashboard Preview
-![dashboard-screenshot](images/dashboard-preview.png)
-
+https://github.com/abdullah7041/Project/blob/main/IMG_5801.jpeg
+https://github.com/abdullah7041/Project/blob/main/IMG_5801%20(1).jpeg
 ## 📁 Files Included
 - `Sales_Dashboard.pbix` – Power BI file
 - `sales_data.xlsx` – Sample/cleaned data
